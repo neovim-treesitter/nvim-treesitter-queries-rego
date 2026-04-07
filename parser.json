@@ -1,7 +1,7 @@
 {
-  "location": null,
-  "lang": "rego",
   "url": "https://github.com/FallenAngel97/tree-sitter-rego",
   "semver": false,
+  "lang": "rego",
+  "location": null,
   "parser_version": "ddd39af81fe8b0288102a7cb97959dfce723e0f3"
 }
